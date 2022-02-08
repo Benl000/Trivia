@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(238, 197, 238);
+    text-align: center;
+    font-style: italic;
+    color: rgb(251, 212, 246);
+}
+
+.quest{
+    width: 500px;
+    border: rgb(240, 97, 221) 10px double;
+    text-align: center;
+    border-radius: 2px;
+    margin-top: 10px;
+    background-color: rgb(238, 197, 238);
+}
+
+.btn{
+    margin: auto;
+    width: 500px;
+    text-align: center;
+    border: rgb(238, 157, 227) 7px ridge;
+    border-radius: 2px;
+    font-size: 200%;
+    background-color: rgb(219, 90, 219);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.btn:hover{
+    border: plum 7px ridge;
+    cursor: pointer;
+    background-color: rgb(138, 57, 138);
+}
+
+.theme{
+    border: rgb(240, 97, 221) 10px dotted;
+    width: 550px;
+    margin: auto;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    background-color: rgb(233, 157, 233);
+}
+
+button{
+    left: 0cm;
+    height: 30px;
+    width: 60px;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 10px;
+    display: none;
+}
